@@ -5,9 +5,10 @@ class Solution {
             int c=target-nums[i];
             if(hm.containsKey(c)){
                 return new int[] {hm.get(c),i};
+            }else{
+                hm.put(nums[i],i);
             }
-            hm.put(nums[i],i);
         }
-    throw new IllegalArgumentException("No two sum solution");
+        return new int[] {0};
     }
 }
