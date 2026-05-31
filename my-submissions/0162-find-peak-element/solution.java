@@ -1,12 +1,12 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        int f=0;
-        int l=nums.length-1;
-        while(f<l){
-            int m=(f+l)/2;
-            if(nums[m]>nums[m+1])l=m;
-            else f=m+1;
-            }
-            return l;
+        int l=0;
+        int r=nums.length-1;
+        while(l<r){
+            int m=l+(r-l)/2;
+            if(nums[m]>nums[m+1]){r=m;}
+            else{l=m+1;}
         }
+        return l;
     }
+}
