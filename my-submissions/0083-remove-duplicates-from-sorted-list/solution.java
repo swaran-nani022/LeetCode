@@ -17,6 +17,7 @@ class Solution {
                 t.next=t.next.next;
             }else{
                 t=t.next;
+                
             }
         }
         return head;
