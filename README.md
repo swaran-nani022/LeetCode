@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/swaran-nani022/LeetCode/tree/master/0292-nim-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/swaran-nani022/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -29,4 +30,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/swaran-nani022/LeetCode/tree/master/0175-combine-two-tables) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/swaran-nani022/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/swaran-nani022/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/swaran-nani022/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/swaran-nani022/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/swaran-nani022/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
