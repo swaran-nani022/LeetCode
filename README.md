@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/swaran-nani022/LeetCode/tree/master/0022-generate-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaran-nani022/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swaran-nani022/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/swaran-nani022/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/swaran-nani022/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/swaran-nani022/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/swaran-nani022/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
